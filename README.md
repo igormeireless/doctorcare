@@ -3,7 +3,7 @@
 ## Projeto NLW 8 da Rocketseat.
 
 ## Variações previstas
- - [x] Mudança de cor da pagina
+ - [x] Mudança de cor da página
  - [ ] Adição da section de comentarios
  - [ ] Adicionar um botão de comentários
  - [ ] Adicionar mapa do google via consumir API
