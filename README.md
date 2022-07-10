@@ -4,10 +4,10 @@
 
 ## Variações previstas
  - [x] Mudança de cor da página
- - [ ] Adição da section de comentarios
+ - [ ] Adição da section de comentários
  - [ ] Adicionar um botão de comentários
  - [ ] Adicionar mapa do google via consumir API
- - [ ] Transformar a pagina em um template para criação de outras paginas
+ - [ ] Transformar a página em um template para criação de outras páginas
 ### Tecnologias utilizadas:
  - [x] HTML
  - [x] CSS
